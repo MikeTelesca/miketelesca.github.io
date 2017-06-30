@@ -33,3 +33,10 @@
   width: auto;
   padding-left: 300px;
 }
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+    transition: .5s;
+  }
