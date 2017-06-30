@@ -15,7 +15,7 @@
     padding: 12px 0 12px 0.5em;
 }
 .header li {
-  font-size: 30px;
+  font-size: 25px;
   font-family: Bebas Neue;
   font-weight: bold;
   display: inline-block;
@@ -25,10 +25,11 @@
 .header ul {
   list-style: none;
   text-align: center;
+
+
 }
-
-
 .BG img {
   height: 700px;
-  width: 100%;
+  width: auto;
+  padding-left: 300px;
 }
